@@ -10,5 +10,5 @@ require (
 	github.com/mattn/go-sqlite3 v1.14.17
 	github.com/unrolled/secure v1.13.0
 	google.golang.org/grpc v1.58.3
-	google.golang.org/protobuf v1.31.0
+	google.golang.org/protobuf v1.33.0
 )
